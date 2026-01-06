@@ -60,7 +60,7 @@ This dashboard helps organizations:
 BSc Data Science  
 Aspiring Data Analyst | Power BI | SQL | Python  
 
-🔗 LinkedIn: https://www.linkedin.com/in/shivamnsingh  
+🔗 LinkedIn: [https://www.linkedin.com/in/shivamnsingh](https://www.linkedin.com/posts/shivamnsingh_powerbi-dataanalyst-dataanalytics-activity-7414197934637965312-obno?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2N1oEB0IIHelupd76gpss4f2nXAfs6fy0)  
 🔗 GitHub: https://github.com/shivamnsingh  
 
 ---
