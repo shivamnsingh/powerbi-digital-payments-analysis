@@ -1,29 +1,72 @@
-# Digital Payments Failure Analysis – Power BI Dashboard
+<details>
+<summary><strong>📊 Digital Payments Failure Analysis | Power BI Dashboard (Click to Expand)</strong></summary>
+
+---
 
 ## 📌 Project Overview
-This project analyzes digital payment transactions to identify
-failure patterns, success rates, and service-wise performance
-using an interactive Power BI dashboard.
+This project analyzes **digital payment transactions** to identify **failure patterns, success rates, and service-wise performance** using an interactive **Power BI dashboard**.  
+The objective is to transform raw transaction data into **actionable business insights**.
+
+---
 
 ## 🔍 Key Insights
-- Monthly trend of failed vs successful transactions
-- Major reasons for payment failures (Server Error, Wrong PIN, Bank Denial)
-- Service-wise transaction volume and amount analysis
-- KPI tracking for total amount, success rate, and failure rate
+- Successful vs failed transaction comparison
+- Monthly trend analysis of payment failures
+- Major failure reasons identified:
+  - Server errors  
+  - Wrong PIN  
+  - Insufficient balance  
+  - Bank denial
+- Service-wise analysis across:
+  - Insurance  
+  - Loans  
+  - Money Transfer  
+  - Recharge & Bills
+- KPI tracking for transaction volume and amount
+
+---
+
+## 📊 Dashboard Features
+- Interactive date and service filters
+- KPI cards for quick insights
+- Clear visual storytelling for business decisions
+- Trend and pattern comparison
+
+---
 
 ## 🛠 Tools & Technologies
-- Power BI
-- DAX
-- Data Modeling
-- Data Visualization
+- Power BI  
+- DAX  
+- Data Modeling  
+- Data Visualization  
 
-## 📊 Dashboard Preview
-![Dashboard Overview]((https://www.linkedin.com/posts/shivamnsingh_powerbi-dataanalyst-dataanalytics-activity-7414197934637965312-obno?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2N1oEB0IIHelupd76gpss4f2nXAfs6fy0))
+---
 
 ## 🎯 Business Value
-Helps payment platforms and businesses identify failure hotspots,
-reduce transaction drop-offs, and improve customer experience.
+This dashboard helps organizations:
+- Identify payment failure hotspots
+- Reduce transaction drop-offs
+- Improve system reliability
+- Enhance customer experience
+- Enable data-driven decision-making
+
+---
+
+
+---
 
 ## 👤 Author
-Shivam Singh  
-BSc Data Science | Power BI & Data Analytics
+**Shivam Singh**  
+BSc Data Science  
+Aspiring Data Analyst | Power BI | SQL | Python  
+
+🔗 LinkedIn: https://www.linkedin.com/in/shivamnsingh  
+🔗 GitHub: https://github.com/shivamnsingh  
+
+---
+
+## ⭐ Feedback
+Feedback and suggestions are welcome.  
+If you find this project useful, feel free to ⭐ the repository.
+
+
