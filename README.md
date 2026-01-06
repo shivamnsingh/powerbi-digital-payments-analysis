@@ -18,7 +18,7 @@ using an interactive Power BI dashboard.
 - Data Visualization
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview]((https://www.linkedin.com/posts/shivamnsingh_powerbi-dataanalyst-dataanalytics-activity-7414197934637965312-obno?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2N1oEB0IIHelupd76gpss4f2nXAfs6fy0))
 
 ## 🎯 Business Value
 Helps payment platforms and businesses identify failure hotspots,
