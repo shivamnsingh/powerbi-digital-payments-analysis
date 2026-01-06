@@ -69,4 +69,4 @@ Aspiring Data Analyst | Power BI | SQL | Python
 Feedback and suggestions are welcome.  
 If you find this project useful, feel free to ⭐ the repository.
 
-
+</details>
